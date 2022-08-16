@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc784a74-71e6-4168-958c-8195de85a2bd" name="Changes" comment="Completed Dog Genetics">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/aribiancadv/javaassessment/summativesums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/aribiancadv/javaassessment/summativesums/Main.java" afterDir="false" />
+    <list default="true" id="cc784a74-71e6-4168-958c-8195de85a2bd" name="Changes" comment="Completed Summative Sums">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660663266859</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed Summative Sums">
+      <created>1660664957720</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660664957720</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +117,7 @@
     <MESSAGE value="Added main classes for the four exercises." />
     <MESSAGE value="Completed Rock Paper Scissors" />
     <MESSAGE value="Completed Dog Genetics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Dog Genetics" />
+    <MESSAGE value="Completed Summative Sums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Summative Sums" />
   </component>
 </project>
